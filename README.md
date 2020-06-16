@@ -1,4 +1,4 @@
-# Langton-s-Ant
+# Langton's-Ant
 Langton's Ant made with Python.
 <p>Una hormiga se mueve en una grilla, conformada por cuadrados o celdas que pueden ser blancas o negras. La hormiga está siempre orientada en alguna de las direcciones cardinales (izquierda, derecha, arriba o abajo) y se mueve de una celda a cualquiera de las adyacentes de acuerdo a las siguientes reglas:</p>
 <ul>
